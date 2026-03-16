@@ -1,3 +1,3 @@
 # apnacollege
 This is my theird Git Repository
-Author - Preetam Narwariya
+Author - Preetam Narwariya(apanacollege)
